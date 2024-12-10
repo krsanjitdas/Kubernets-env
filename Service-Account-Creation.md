@@ -1,3 +1,5 @@
+Following configuration work on > v1.24.0 
+
 ### **Step 1: Create a Service Account**
 
 Create a service account that will be associated with the token.
